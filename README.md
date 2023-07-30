@@ -1,6 +1,4 @@
-# Mohamed Qourany
-Front End Developer
-
+# Mohamed Qourany #Front End Developer
 Starting my career as a developer.
 
 # You can find me there too
