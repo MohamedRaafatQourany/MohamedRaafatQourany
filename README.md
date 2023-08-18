@@ -1,5 +1,5 @@
-# Mohamed Qourany #Front End Developer
-Starting my career as a developer.
+# Mohamed Qourany
+Your friendly neighborhood front end developer
 
 # You can find me there too
 
