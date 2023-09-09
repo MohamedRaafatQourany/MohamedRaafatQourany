@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mohamed+Qourany" alt="Typing SVG" /></a>
-Your friendly neighborhood front end developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mohamed+Qourany;Front+End+Developer" alt="Typing SVG" /></a>
 
 # You can find me there too
 
