@@ -31,6 +31,5 @@
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedQourany&theme=buefy-dark)](https://git.io/streak-stats)
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedQourany&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedQourany)](https://github.com/MohamedQourany/github-readme-stats)
 #
