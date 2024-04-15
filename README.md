@@ -33,5 +33,5 @@
 ### 📊 Stats
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedQourany&show_icons=true&theme=radical)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MohamedQourany&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=MohamedQourany&theme=gruvbox&border_radius=4.5)
 #
