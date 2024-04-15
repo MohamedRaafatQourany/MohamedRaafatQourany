@@ -16,7 +16,7 @@
    </p>
 
 ---
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedQourany)](https://github.com/MohamedQourany/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedQourany)](https://github.com/MohamedQourany/)
 
 ###
 ### 🧰 Languages and Tools
