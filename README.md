@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mohamed+Qourany;Front+End+Developer" alt="Typing SVG" /></a>
 
 # You can find me there too
-<h1>Creating Bug Since 2020</h1>
+<p>Creating Bug Since 2020</p>
 <a href="https://www.linkedin.com/in/mohammed-qour%E2%80%99any-8507a9191/" target="_blank" rel="noopener noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
