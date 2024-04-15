@@ -16,10 +16,7 @@
    </p>
 
 ---
-<picture>
-  <source media="(min-width: 769px) and (prefers-color-scheme: light)" src="https://raw.githubusercontent.com/MohamedQourany/MohamedQourany/output/snake.svg">
-</picture>
-<img  alt="Snake animation" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedQourany)](https://github.com/MohamedQourany/github-readme-stats)
 
 ###
 ### 🧰 Languages and Tools
