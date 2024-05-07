@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mohamed+Qourany;Front+End+Developer" alt="Typing SVG" /></a>
-<p>Creating Bug Since 2020 🐛 </p>
+<p>Creating Bugs Since 2020 🐛 </p>
 
 
 # You can find me there too
