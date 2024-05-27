@@ -32,6 +32,6 @@
 
 ### 📊 Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedQourany&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=MohamedQourany&theme=gruvbox&border_radius=4.5)
-#
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedqourany&show_icons=true&locale=en" alt="mohamedqourany" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedqourany&" alt="mohamedqourany" /></p>
