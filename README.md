@@ -16,6 +16,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://dev.to/mohamedqourany/why-mastering-the-basics-is-crucial-for-front-end-developers-3c6m">
+Why Mastering the Basics is Crucial for Front-End Developers
+</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
