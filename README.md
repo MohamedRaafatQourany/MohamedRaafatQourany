@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedqourany&show_icons=true&locale=en" alt="mohamedqourany" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedqourany&" alt="mohamedqourany" /></p>
+
+<div align="center">
+ <a href="https://github.com/mohamedtamer0">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mohamed Tamer github stats"/>
+</a>
+</div>
