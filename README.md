@@ -34,6 +34,6 @@
 
 <div align="center">
  <a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mohamed Tamer github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedQourany&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mohamed Tamer github stats"/>
 </a>
 </div>
