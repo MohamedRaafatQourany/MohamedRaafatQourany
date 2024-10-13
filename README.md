@@ -1,3 +1,4 @@
+<div align="left">
 <h1 align="center">Hi 👋, I'm Mohamed Raafat Qourany</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
@@ -32,8 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedqourany&" alt="mohamedqourany" /></p>
 
-<div align="center">
- <a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedQourany&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mohamed Tamer github stats"/>
-</a>
+
 </div>
