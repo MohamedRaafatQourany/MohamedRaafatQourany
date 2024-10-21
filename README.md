@@ -1,5 +1,5 @@
 Hello I'm Mohamed Raafat Qourany.
-
+[![](https://visitcount.itsvg.in/api?id=Mohamedqourany&icon=0&color=12)](https://visitcount.itsvg.in)
 _________________________________
 
 🔭 Creating Bugs Since 2019 <br>
@@ -19,6 +19,6 @@ _________________________________
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohamedqourany&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
