@@ -36,5 +36,5 @@ Why Mastering the Basics is Crucial for Front-End Developers
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedqourany&" alt="mohamedqourany" /></p>
 
-
+<img src="https://leetcode.card.workers.dev/?username=JacobLinCool"/>
 </div>
