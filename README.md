@@ -18,9 +18,6 @@ _________________________________
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohamedqourany&icon=0&color=12)](https://visitcount.itsvg.in)
 
