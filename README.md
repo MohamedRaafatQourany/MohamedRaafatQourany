@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedraafatqourany&show_icons=true&show=contribs&locale=en" alt="mohamedraafatqourany" /></p>
 
-[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraafatqourany&" alt="mohamedraafatqourany" /></p>
-](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
+[[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraafatqourany&" alt="mohamedraafatqourany" /></p>
+](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
