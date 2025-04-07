@@ -18,6 +18,7 @@
 <img width="70px" align="left" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"/>
 <img align="left" width="70px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
 <img align="left" width="70px" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"/>
+<img align="left" width="70px" src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"/>
 <br></br>
 <br></br>
 <br></br>
