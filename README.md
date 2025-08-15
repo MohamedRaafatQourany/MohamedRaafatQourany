@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Raafat</h1>
 <h3 align="left">Software Engineer</h3>
-<h4>Currently on my way to be a MERN stack engineer</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedraafatqourany&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedraafatqourany" /> </p>
 
 - 📫 How to reach me **MohamedRaafatQourany@gmail.com**
