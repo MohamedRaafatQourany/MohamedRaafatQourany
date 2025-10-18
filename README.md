@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer</h3>
 <h4 align="left">Currently learning NodeJs</h4>
 <h4 align="left">+2K$ Earnings across all freelance platforms</h4>
-<h4 align="left">Upwork Rising Talent Badge Holder</h4>
+<h4 align="left">Upwork Rising Talent Badge</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedraafatqourany&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedraafatqourany" /> </p>
 
 - 📫 How to reach me **MohamedRaafatQourany@gmail.com**
