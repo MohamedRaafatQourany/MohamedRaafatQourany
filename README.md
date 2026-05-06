@@ -28,7 +28,6 @@ Outside of Breadfast, I freelance on Upwork and I'm building **Out Out** — a d
 
 ```
 Current focus  →  Node.js · Express · NestJS · Supabase
-Building       →  Out Out (Cairo dining & venue booking platform)
 Learning       →  Backend architecture, REST API design, PostgreSQL
 ```
 
