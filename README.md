@@ -64,18 +64,6 @@ Learning       →  Backend architecture, REST API design, PostgreSQL
 
 ---
 
-## What I'm Building
-
-### 🍽 Out Out
-> A dual-sided booking platform for restaurants & venues in Cairo.
-
-- **User side** — Browse, discover, and book tables/venues with instant confirmation
-- **Partner side** — Manage availability, bookings, and no-show policies in real time
-- **Stack** — React Native (Expo Router) · Supabase (Postgres + RLS + Realtime) · TypeScript
-- **Design** — Dark-first with gold accent (`#EFC045`), DM Serif Display + DM Sans
-
----
-
 ## GitHub Stats
 
 <div align="center">
