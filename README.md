@@ -24,8 +24,6 @@
 
 I'm a Front-End Engineer at **Breadfast** in Cairo, working across supply chain and shopping app squads. I build fast, accessible, production-grade UIs with React and TypeScript — and I'm currently expanding into full-stack with Node.js and NestJS.
 
-Outside of Breadfast, I freelance on Upwork and I'm building **Out Out** — a dual-sided restaurant & venue booking platform for the Cairo market, powered by React Native + Supabase.
-
 ```
 Current focus  →  Node.js · Express · NestJS · Supabase
 Learning       →  Backend architecture, REST API design, PostgreSQL
