@@ -1,26 +1,105 @@
-<h1 align="left">Hi 👋, I'm Raafat</h1>
-<h3 align="left">Software Engineer</h3>
-<h4 align="left">Currently learning NodeJs</h4>
-<h4 align="left">+2K$ Earnings across all freelance platforms</h4>
-<h4 align="left">Upwork Rising Talent Badge</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedraafatqourany&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedraafatqourany" /> </p>
+<div align="center">
 
-- 📫 How to reach me **MohamedRaafatQourany@gmail.com**
+```
+██████╗  █████╗  █████╗ ███████╗ █████╗ ████████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
+██████╔╝███████║███████║█████╗  ███████║   ██║   
+██╔══██╗██╔══██║██╔══██║██╔══╝  ██╔══██║   ██║   
+██║  ██║██║  ██║██║  ██║██║     ██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝  
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammedqourany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedqourany" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-<h3 align="left">Badges</h3></p>
-<img width="70px" align="left" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"/>
-<img align="left" width="70px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
-<img align="left" width="70px" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"/>
-<img align="left" width="70px" src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"/>
-<br></br>
-<br></br>
-<br></br>
+### Mohammed Raafat · Front-End Engineer · Cairo, Egypt
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRaafatQourany&theme=vue-dark&hide_border=true" alt="mohamedraafatqourany" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammedqourany-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammedqourany)
+[![Email](https://img.shields.io/badge/Email-MohamedRaafatQourany@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:MohamedRaafatQourany@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Rising%20Talent%20%E2%80%A2%20%242K%2B-6FDA44?style=flat-square&logo=upwork)](https://www.upwork.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedraafatqourany&style=flat-square&color=6366f1)](https://github.com/MohamedRaafatQourany)
 
+</div>
+
+---
+
+## About
+
+I'm a Front-End Engineer at **Breadfast** in Cairo, working across supply chain and shopping app squads. I build fast, accessible, production-grade UIs with React and TypeScript — and I'm currently expanding into full-stack with Node.js and NestJS.
+
+Outside of Breadfast, I freelance on Upwork and I'm building **Out Out** — a dual-sided restaurant & venue booking platform for the Cairo market, powered by React Native + Supabase.
+
+```
+Current focus  →  Node.js · Express · NestJS · Supabase
+Building       →  Out Out (Cairo dining & venue booking platform)
+Learning       →  Backend architecture, REST API design, PostgreSQL
+```
+
+---
+
+## Tech Stack
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend & Data (learning)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## What I'm Building
+
+### 🍽 Out Out
+> A dual-sided booking platform for restaurants & venues in Cairo.
+
+- **User side** — Browse, discover, and book tables/venues with instant confirmation
+- **Partner side** — Manage availability, bookings, and no-show policies in real time
+- **Stack** — React Native (Expo Router) · Supabase (Postgres + RLS + Realtime) · TypeScript
+- **Design** — Dark-first with gold accent (`#EFC045`), DM Serif Display + DM Sans
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamedRaafatQourany&theme=tokyonight&hide_border=true)](https://github.com/MohamedRaafatQourany)
+
+</div>
+
+---
+
+## GitHub Badges
+
+<div align="left">
+<img width="64px" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" title="Pull Shark"/>
+<img width="64px" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" title="Quickdraw"/>
+<img width="64px" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" title="YOLO"/>
+<img width="64px" src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" title="Arctic Code Vault Contributor"/>
+</div>
+
+---
+
+<div align="center">
+<sub>Open to freelance projects · Available on Upwork · Based in Cairo 🇪🇬</sub>
+</div>
